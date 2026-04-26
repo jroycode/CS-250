@@ -1,2 +1,12 @@
 # CS-250
 CS-250 Course SNHU
+Course Reflection: Essential Questions
+
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+Interpreting user needs starts with active listening and digging into the actual business problem rather than just blindly accepting a technical feature request. In my experience, creating user stories is the most effective way to bridge the gap between what a client wants and what a developer actually builds. By formatting requirements as "As a [user], I want to [task] so that [goal]," it forces the development team to focus on the why behind the code. Instead of getting lost in database schemas or UI frameworks right away, user stories keep the focus on the business value. When paired with clear acceptance criteria, they provide a strict, testable checklist to ensure the final program actually solves the user's problem without over-engineering it.
+
+How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+My approach to software development is highly iterative. I prefer to build a functional, Minimum Viable Product (MVP) first, test it, and then layer on features based on feedback, rather than trying to perfectly design a massive, rigid system upfront. Moving forward, I definitely plan to incorporate strict timeboxing and the Daily Scrum into my development work. Having a 15-minute daily sync dedicated entirely to identifying and removing blockers keeps momentum high and prevents developers from wasting days stuck on a single bug. I also plan to heavily utilize Retrospectives. Taking the time after a release to sit down in a safe environment and figure out how to improve our actual workflow is the only way a development team gets faster and healthier over time.
+
+What does it mean to be a good team member in software development?
+Being a good team member in software development means completely abandoning the "that's not my job" mentality and breaking out of individual developer silos. It means writing clean, documented code that the next developer can actually understand, actively participating in peer reviews without ego, and leaving the codebase cleaner than you found it. A great team member doesn't try to "hero-code" their way out of a problem in secret; they communicate blockers immediately, respect the capacity estimates of their peers, and are always willing to swarm on a bottleneck to ensure the entire team hits the Sprint Goal together.
